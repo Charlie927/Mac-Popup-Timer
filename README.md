@@ -1,2 +1,2 @@
 # Mac-Popup-Timer
-A menu bar popup timer app for macOS.
+A menu bar popup timer app for macOS. ❤️ 
